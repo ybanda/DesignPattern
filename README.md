@@ -1,5 +1,5 @@
 # DesignPattern
-A project on implementation of various Design Patterns
+A project on description of various Design Patterns
 
 ### Abstract Factory-
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes. 
